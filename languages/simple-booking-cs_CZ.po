@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: cs_CZ\n"
+
+msgid "Datum příjezdu:"
+msgstr "Datum příjezdu:"
+
+msgid "Datum odjezdu:"
+msgstr "Datum odjezdu:"
+
+msgid "Jméno:"
+msgstr "Jméno:"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "Telefon:"
+msgstr "Telefon:"
+
+msgid "Rezervovat"
+msgstr "Rezervovat"
+
+msgid "Termín je obsazený. Vyberte prosím jiný termín."
+msgstr "Termín je obsazený. Vyberte prosím jiný termín."
+
+msgid "Potvrzení rezervace"
+msgstr "Potvrzení rezervace"
+
+msgid "Dobrý den, %s"
+msgstr "Dobrý den, %s"
+
+msgid "Vaše rezervace byla přijata."
+msgstr "Vaše rezervace byla přijata."
+
+msgid "Podrobnosti o rezervaci:"
+msgstr "Podrobnosti o rezervaci:"
+
+msgid "Děkujeme za vaši rezervaci a brzy se vám ozveme."
+msgstr "Děkujeme za vaši rezervaci a brzy se vám ozveme."
+
+msgid "Tento e-mail byl vygenerován automaticky, prosím neodpovídejte na něj."
+msgstr "Tento e-mail byl vygenerován automaticky, prosím neodpovídejte na něj."
+
+msgid "Nová rezervace"
+msgstr "Nová rezervace"
+
+msgid "Byla vytvořena nová rezervace."
+msgstr "Byla vytvořena nová rezervace."
+
+msgid "Rezervace byla úspěšně vytvořena.<br>Brzy se vám ozveme. Děkujeme."
+msgstr "Rezervace byla úspěšně vytvořena.<br>Brzy se vám ozveme. Děkujeme."
+
+msgid "Rezervace"
+msgstr "Rezervace"
+
+msgid "Seznam rezervací"
+msgstr "Seznam rezervací"
+
+msgid "Datum příjezdu"
+msgstr "Datum příjezdu"
+
+msgid "Datum odjezdu"
+msgstr "Datum odjezdu"
+
+msgid "Jméno"
+msgstr "Jméno"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Akce"
+msgstr "Akce"
+
+msgid "Editovat"
+msgstr "Editovat"
+
+msgid "Smazat"
+msgstr "Smazat"
+
+msgid "Rezervace nenalezena."
+msgstr "Rezervace nenalezena."
+
+msgid "Editace rezervace"
+msgstr "Editace rezervace"
+
+msgid "Aktualizovat"
+msgstr "Aktualizovat"
+
+msgid "Rezervace byla aktualizována."
+msgstr "Rezervace byla aktualizována."
