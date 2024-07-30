@@ -1,0 +1,33 @@
+Mitwirkende: [vvvamik]
+Tags: buchung, formular, buchungsformular, WordPress
+Getestet bis: [6.6.1]
+Stabile Version: 2.0
+Lizenz: GPL-2.0+
+Lizenz URI: http://www.gnu.org/licenses/gpl-2.0.txt
+
+== Kurzbeschreibung ==
+
+Simple Booking ist ein einfaches Plugin für WordPress, mit dem Benutzer über ein Webformular Reservierungen vornehmen können. Die Benutzer können ihren Namen, ihre E-Mail-Adresse und ihre Telefonnummer eingeben und über die Eingabefelder Ankunfts- und Abreisedaten auswählen.
+
+== Installation ==
+
+    Laden Sie den Ordner „Simple Booking“ in das Verzeichnis /wp-content/plugins/ hoch.
+    Aktivieren Sie das Plugin über das Menü „Plugins“ in WordPress.
+
+== Verwendung ==
+
+Nachdem Sie das Plugin aktiviert haben, können Sie das Buchungsformular mit folgendem Shortcode in Ihre Seite einbinden: [simple_booking_form]
+
+Nach dem Absenden des Formulars wird die Buchung bearbeitet und der Nutzer erhält eine Bestätigungsmail.
+
+== Lizenz ==
+
+Dieses Plugin wird unter der GPL-2.0+ Lizenz vertrieben.
+
+== Changelog ==
+
+== 2.0. - 20-07-2024 ==
+
+    Vereinfachter Code
+    Unterstützung für die Übersetzung in andere Sprachen hinzugefügt
+    Übersetzung CZ, EN, DE, FR
