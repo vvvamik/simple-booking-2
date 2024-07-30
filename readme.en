@@ -1,0 +1,31 @@
+== Simple booking 2.0 ==
+Simple Booking
+
+Contributors: [vvvamik] Tags: booking, form, booking, form, WordPress Tested to: [6.6.1] Stable version: 2.0 License: GPL-2.0+ License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+
+== Short Description ==
+
+Simple Booking is a simple plugin for WordPress that allows users to make reservations using a web form. Users can enter their name, email, phone and select arrival and departure dates using the input fields.
+
+== Installation ==
+
+    Upload the simple booking folder to the /wp-content/plugins/ directory.
+    Activate the plugin via the "Plugins" menu in WordPress.
+
+== Usage ==
+
+After activating the plugin, you can embed the booking form into your site using the following short code: [simple_booking_form]
+
+After submitting the form, the booking will be processed and the user will receive a confirmation email.
+
+== License ==
+
+This plugin is distributed under the GPL-2.0+ license.
+
+== Changelog ==
+
+== 2.0. - 20-07-2024 ==
+
+    Simplified code
+    Added support for translation to other languages
+    Translation CZ, EN, DE, FR
