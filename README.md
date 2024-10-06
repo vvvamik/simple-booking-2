@@ -34,11 +34,10 @@ Tento plugin je distribuován pod licencí GPL-2.0+.
 - Zjednodušený kód
 - Přidaná podpora pro překlad do jiných jazyků
 - Překlad CZ, EN, DE, FR
-  
-![EN_](https://github.com/user-attachments/assets/e889f499-3326-401e-8fe6-538b19fee048)
-![CZ_](https://github.com/user-attachments/assets/c0336cfe-9f9f-4274-bd8b-ae5c736bf2fe)
 
+![CZ_](https://github.com/user-attachments/assets/80c89afc-5818-415c-bf86-904a0de43797)
+![EN_](https://github.com/user-attachments/assets/2025bf53-761e-4118-84da-4e1e74e80e2c)
 
-![wpadmin02](https://github.com/user-attachments/assets/96e7240f-8d78-4566-9834-7721a9898f86)
 ![wpadmin01](https://github.com/user-attachments/assets/894184f3-5fe6-4098-991f-a3f5551c9bbc)
+![wpadmin02](https://github.com/user-attachments/assets/96e7240f-8d78-4566-9834-7721a9898f86)
 
