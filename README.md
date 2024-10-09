@@ -4,7 +4,7 @@
 Contributors: [vvvamik]
 Tags: rezervace, formulář, booking, form, WordPress
 Testováno až do: [6.6.1]
-Stabilní verze: 2.0
+Stabilní verze: 2.0.5
 Licence: GPL-2.0+
 Licence URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
