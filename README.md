@@ -35,6 +35,9 @@ Tento plugin je distribuován pod licencí GPL-2.0+.
 - Přidaná podpora pro překlad do jiných jazyků
 - Překlad CZ, EN, DE, FR
 
+== 2.0.5 - 09-10-2024 ==
+- Přidaný widget s přehledem rezervací na nástěnku v administraci
+ 
 ![CZ_](https://github.com/user-attachments/assets/80c89afc-5818-415c-bf86-904a0de43797)
 ![EN_](https://github.com/user-attachments/assets/2025bf53-761e-4118-84da-4e1e74e80e2c)
 
