@@ -1,0 +1,39 @@
+<?php
+// Funkce pro zobrazení widgetu na nástěnce
+function simple_booking_dashboard_widget() {
+    global $wpdb;
+
+    // Tabulka s rezervacemi
+    $table_name = $wpdb->prefix . 'bookings'; 
+
+    // Načtení posledních 3 rezervací
+    $results = $wpdb->get_results( "SELECT * FROM $table_name ORDER BY arrival_date DESC LIMIT 3", ARRAY_A );
+
+    if ( !empty( $results ) ) {
+        echo '<ul>';
+        foreach ( $results as $booking ) {
+            echo '<li>';
+            echo 'Jméno: ' . esc_html( $booking['name'] ) . '<br>';
+            echo 'Email: ' . esc_html( $booking['email'] ) . '<br>';
+            echo 'Telefon: ' . esc_html( $booking['phone'] ) . '<br>';
+            echo 'Datum příjezdu: ' . esc_html( $booking['arrival_date'] ) . '<br>';
+            echo 'Datum odjezdu: ' . esc_html( $booking['departure_date'] ) . '<br>';
+            echo '</li><br>';
+        }
+        echo '</ul>';
+    } else {
+        echo '<p>Žádné rezervace nebyly nalezeny.</p>';
+    }
+
+    echo '<p><a href="' . admin_url('admin.php?page=simple-booking') . '" class="button button-primary">Správa rezervací</a></p>';
+}
+
+// Funkce pro přidání widgetu na nástěnku
+function simple_booking_add_dashboard_widget() {
+    wp_add_dashboard_widget(
+        'simple_booking_dashboard_widget',    // ID widgetu
+        'Přehled Rezervací',                  // Název widgetu
+        'simple_booking_dashboard_widget'     // Funkce
+    );
+}
+add_action('wp_dashboard_setup', 'simple_booking_add_dashboard_widget');
