@@ -28,6 +28,13 @@ Po odeslání formuláře bude rezervace zpracována a uživatel obdrží potvrz
 
 Tento plugin je distribuován pod licencí GPL-2.0+.
 
+![CZ_](https://github.com/user-attachments/assets/80c89afc-5818-415c-bf86-904a0de43797)
+![EN_](https://github.com/user-attachments/assets/2025bf53-761e-4118-84da-4e1e74e80e2c)
+
+![wpadmin01](https://github.com/user-attachments/assets/894184f3-5fe6-4098-991f-a3f5551c9bbc)
+![wpadmin02](https://github.com/user-attachments/assets/96e7240f-8d78-4566-9834-7721a9898f86)
+
+
 == Changelog ==
 
 == 2.0. - 20-07-2024 ==
@@ -37,10 +44,3 @@ Tento plugin je distribuován pod licencí GPL-2.0+.
 
 == 2.0.5 - 09-10-2024 ==
 - Přidaný widget s přehledem rezervací na nástěnku v administraci
- 
-![CZ_](https://github.com/user-attachments/assets/80c89afc-5818-415c-bf86-904a0de43797)
-![EN_](https://github.com/user-attachments/assets/2025bf53-761e-4118-84da-4e1e74e80e2c)
-
-![wpadmin01](https://github.com/user-attachments/assets/894184f3-5fe6-4098-991f-a3f5551c9bbc)
-![wpadmin02](https://github.com/user-attachments/assets/96e7240f-8d78-4566-9834-7721a9898f86)
-
