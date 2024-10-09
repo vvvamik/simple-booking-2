@@ -2,7 +2,7 @@
 /*
 Plugin Name: Simple Booking 2.0
 Description: A simple booking plugin for WordPress.
-Version: 2.0.1
+Version: 2.0.5
 Author: vvvamik
 */
 
@@ -27,6 +27,9 @@ require_once plugin_dir_path(__FILE__) . 'includes/booking-functions.php';
 
 // Přidání administrátorského menu
 require_once plugin_dir_path(__FILE__) . 'includes/admin-page.php';
+
+// Přidání widgetu na nástěnku
+require_once plugin_dir_path(__FILE__) . 'includes/booking-dashboard-widget.php';
 
 // Aktivace pluginu
 register_activation_hook(__FILE__, 'simple_booking_install');
