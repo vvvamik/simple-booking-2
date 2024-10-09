@@ -1,7 +1,7 @@
 Contributeurs : [vvvamik]
 Tags : réservation, formulaire, réservation, formulaire, WordPress
 Testé sur : [6.6.1]
-Version stable : 2.0
+Version stable : 2.0.5
 Licence : GPL-2.0+
 URI de la licence : http://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -27,7 +27,9 @@ Ce plugin est distribué sous licence GPL-2.0+.
 == Changelog ==
 
 == 2.0. - 20-07-2024 ==
-
     Code simplifié
     Ajout du support pour la traduction vers d'autres langues
     Traduction CZ, EN, DE, FR
+
+== 2.0.5. - 09-10-2024 ==
+    Ajout d'un widget d'aperçu des réservations au tableau d'administration
