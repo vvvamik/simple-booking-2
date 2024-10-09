@@ -27,7 +27,9 @@ Dieses Plugin wird unter der GPL-2.0+ Lizenz vertrieben.
 == Changelog ==
 
 == 2.0. - 20-07-2024 ==
-
     Vereinfachter Code
     Unterstützung für die Übersetzung in andere Sprachen hinzugefügt
     Übersetzung CZ, EN, DE, FR
+
+== 2.0.5. - 09-10-2024 ==
+    Buchungsübersichts-Widget zum Administrationsboard hinzugefügt
