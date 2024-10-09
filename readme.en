@@ -1,7 +1,7 @@
 == Simple booking 2.0 ==
 Simple Booking
 
-Contributors: [vvvamik] Tags: booking, form, booking, form, WordPress Tested to: [6.6.1] Stable version: 2.0 License: GPL-2.0+ License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+Contributors: [vvvamik] Tags: booking, form, booking, form, WordPress Tested to: [6.6.1] Stable version: 2.0.5. License: GPL-2.0+ License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 
 == Short Description ==
 
@@ -29,3 +29,6 @@ This plugin is distributed under the GPL-2.0+ license.
     Simplified code
     Added support for translation to other languages
     Translation CZ, EN, DE, FR
+
+== 2.0.5. - 09-10-2024 ==
+    Added booking overview widget to the administration board
