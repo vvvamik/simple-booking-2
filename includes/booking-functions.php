@@ -214,6 +214,7 @@ function simple_booking_ajax_handler() {
         wp_mail($admin_email, $admin_subject, $admin_message, $headers);
 
         echo __('Rezervace byla úspěšně vytvořena.<br>Brzy se vám ozveme. Děkujeme.','simple-booking');
+        echo '<script>document.getElementById("booking-form").reset();</script>';
     }
 
     wp_die();
