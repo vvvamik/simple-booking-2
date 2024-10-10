@@ -16,7 +16,7 @@ function simple_booking_form() {
         <input type="email" id="email" name="email" required>
 
         <label for="phone"><?php echo __('Telefon:', 'simple-booking'); ?></label>
-        <input type="text" id="phone" name="phone">
+        <input type="text" id="phone" name="phone" required>
 
         <input type="submit" value="<?php echo __('Rezervovat', 'simple-booking'); ?>">
         <div id="booking-result"></div>
