@@ -4,88 +4,110 @@ msgstr ""
 "Language: cs_CZ\n"
 
 msgid "Datum příjezdu:"
-msgstr "Datum příjezdu:"
+msgstr ""
 
 msgid "Datum odjezdu:"
-msgstr "Datum odjezdu:"
+msgstr ""
 
 msgid "Jméno:"
-msgstr "Jméno:"
+msgstr ""
 
 msgid "Email:"
-msgstr "Email:"
+msgstr ""
 
 msgid "Telefon:"
-msgstr "Telefon:"
+msgstr ""
 
 msgid "Rezervovat"
-msgstr "Rezervovat"
+msgstr ""
 
 msgid "Termín je obsazený. Vyberte prosím jiný termín."
-msgstr "Termín je obsazený. Vyberte prosím jiný termín."
+msgstr ""
 
 msgid "Potvrzení rezervace"
-msgstr "Potvrzení rezervace"
+msgstr ""
 
 msgid "Dobrý den, %s"
-msgstr "Dobrý den, %s"
+msgstr ""
 
 msgid "Vaše rezervace byla přijata."
-msgstr "Vaše rezervace byla přijata."
+msgstr ""
 
 msgid "Podrobnosti o rezervaci:"
-msgstr "Podrobnosti o rezervaci:"
+msgstr ""
 
 msgid "Děkujeme za vaši rezervaci a brzy se vám ozveme."
-msgstr "Děkujeme za vaši rezervaci a brzy se vám ozveme."
+msgstr ""
 
 msgid "Tento e-mail byl vygenerován automaticky, prosím neodpovídejte na něj."
-msgstr "Tento e-mail byl vygenerován automaticky, prosím neodpovídejte na něj."
+msgstr ""
 
 msgid "Nová rezervace"
-msgstr "Nová rezervace"
+msgstr ""
 
 msgid "Byla vytvořena nová rezervace."
-msgstr "Byla vytvořena nová rezervace."
+msgstr ""
 
 msgid "Rezervace byla úspěšně vytvořena.<br>Brzy se vám ozveme. Děkujeme."
-msgstr "Rezervace byla úspěšně vytvořena.<br>Brzy se vám ozveme. Děkujeme."
+msgstr ""
 
 msgid "Rezervace"
-msgstr "Rezervace"
+msgstr ""
 
 msgid "Seznam rezervací"
-msgstr "Seznam rezervací"
+msgstr ""
 
 msgid "Datum příjezdu"
-msgstr "Datum příjezdu"
+msgstr ""
 
 msgid "Datum odjezdu"
-msgstr "Datum odjezdu"
+msgstr ""
 
 msgid "Jméno"
-msgstr "Jméno"
+msgstr ""
 
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 msgid "Akce"
-msgstr "Akce"
+msgstr ""
 
 msgid "Editovat"
-msgstr "Editovat"
+msgstr ""
 
 msgid "Smazat"
-msgstr "Smazat"
+msgstr ""
 
 msgid "Rezervace nenalezena."
-msgstr "Rezervace nenalezena."
+msgstr ""
 
 msgid "Editace rezervace"
-msgstr "Editace rezervace"
+msgstr ""
 
 msgid "Aktualizovat"
-msgstr "Aktualizovat"
+msgstr ""
 
 msgid "Rezervace byla aktualizována."
-msgstr "Rezervace byla aktualizována."
+msgstr ""
+
+msgid "Přehled rezervací"
+msgstr ""
+
+#: ../includes/booking-dashboard-widget.php:16
+msgid "Jméno"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Telefon"
+msgstr ""
+
+msgid "Datum příjezdu"
+msgstr ""
+
+msgid "Datum odjezdu"
+msgstr ""
+
+msgid "Správa rezervací"
+msgstr ""

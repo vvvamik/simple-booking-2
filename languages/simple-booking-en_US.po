@@ -19,7 +19,7 @@ msgid "Telefon:"
 msgstr "Phone:"
 
 msgid "Rezervovat"
-msgstr "Book"
+msgstr "Booking"
 
 msgid "Termín je obsazený. Vyberte prosím jiný termín."
 msgstr "The date is booked. Please choose another date."
@@ -89,3 +89,30 @@ msgstr "Update"
 
 msgid "Rezervace byla aktualizována."
 msgstr "The booking was updated."
+
+msgid "Přehled Rezervací"
+msgstr "Overview of bookings"
+
+msgid "Jméno:"
+msgstr "Name:"
+
+msgid "Email:"
+msgstr "Email:"
+
+msgid "Phone:"
+msgstr "Phone:"
+
+msgid "Arrival Date:"
+msgstr "Arrival Date:"
+
+msgid "Departure Date:"
+msgstr "Departure Date:"
+
+msgid "No bookings found."
+msgstr "No bookings found."
+
+msgid "Manage bookings"
+msgstr "Manage bookings"
+
+msgid "Správa rezervací"
+msgstr "Management of reservations"

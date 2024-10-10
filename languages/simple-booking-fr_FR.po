@@ -89,3 +89,24 @@ msgstr "Mettre à jour"
 
 msgid "Rezervace byla aktualizována."
 msgstr "La réservation a été mise à jour."
+
+msgid "Přehled rezervací"
+msgstr "Aperçu des réservations"
+
+msgid "Jméno"
+msgstr "Nom"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Telefon"
+msgstr "Téléphone"
+
+msgid "Datum příjezdu"
+msgstr "Date d'arrivée"
+
+msgid "Datum odjezdu"
+msgstr "Date de départ"
+
+msgid "Správa rezervací"
+msgstr "Gestion des réservations"
