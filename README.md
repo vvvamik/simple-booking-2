@@ -44,3 +44,7 @@ Tento plugin je distribuován pod licencí GPL-2.0+.
 
 == 2.0.5 - 09-10-2024 ==
 - Přidaný widget s přehledem rezervací na nástěnku v administraci
+
+![widget_cz](https://github.com/user-attachments/assets/de7c4eb5-f2a2-4671-8443-bd868583f8ee)
+![widget_en](https://github.com/user-attachments/assets/67d7b5ee-04a4-4c77-a9b6-3481dc2d0f00)
+
