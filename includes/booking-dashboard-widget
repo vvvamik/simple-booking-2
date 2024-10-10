@@ -13,26 +13,26 @@ function simple_booking_dashboard_widget() {
         echo '<ul>';
         foreach ( $results as $booking ) {
             echo '<li>';
-            echo 'Jméno: ' . esc_html( $booking['name'] ) . '<br>';
-            echo 'Email: ' . esc_html( $booking['email'] ) . '<br>';
-            echo 'Telefon: ' . esc_html( $booking['phone'] ) . '<br>';
-            echo 'Datum příjezdu: ' . esc_html( $booking['arrival_date'] ) . '<br>';
-            echo 'Datum odjezdu: ' . esc_html( $booking['departure_date'] ) . '<br>';
+            echo esc_html__( 'Jméno:', 'simple-booking' ) . ' ' . esc_html( $booking['name'] ) . '<br>';
+            echo esc_html__( 'Email:', 'simple-booking' ) . ' ' . esc_html( $booking['email'] ) . '<br>';
+            echo esc_html__( 'Telefon:', 'simple-booking' ) . ' ' . esc_html( $booking['phone'] ) . '<br>';
+            echo esc_html__( 'Datum příjezdu:', 'simple-booking' ) . ' ' . esc_html( $booking['arrival_date'] ) . '<br>';
+            echo esc_html__( 'Datum odjezdu:', 'simple-booking' ) . ' ' . esc_html( $booking['departure_date'] ) . '<br>';
             echo '</li><br>';
         }
         echo '</ul>';
     } else {
-        echo '<p>Žádné rezervace nebyly nalezeny.</p>';
+        echo '<p>' . esc_html__( 'Žádné rezervace nebyly nalezeny.', 'simple-booking' ) . '</p>';
     }
 
-    echo '<p><a href="' . admin_url('admin.php?page=simple-booking') . '" class="button button-primary">Správa rezervací</a></p>';
+    echo '<p><a href="' . admin_url('admin.php?page=simple-booking') . '" class="button button-primary">' . esc_html__( 'Správa rezervací', 'simple-booking' ) . '</a></p>';
 }
 
 // Funkce pro přidání widgetu na nástěnku
 function simple_booking_add_dashboard_widget() {
     wp_add_dashboard_widget(
         'simple_booking_dashboard_widget',    // ID widgetu
-        'Přehled Rezervací',                  // Název widgetu
+        esc_html__( 'Přehled rezervací', 'simple-booking' ),  // Název widgetu
         'simple_booking_dashboard_widget'     // Funkce
     );
 }
