@@ -1,3 +1,6 @@
+[![cz](https://img.shields.io/badge/lang-cz-white)](https://github.com/vvvamik/simple-booking-2/blob/main/README.md) [![cz](https://img.shields.io/badge/lang-en-red)](https://github.com/vvvamik/simple-booking-2/blob/main/readme.en) [![cz](https://img.shields.io/badge/lang-de-yellow)](https://github.com/vvvamik/simple-booking-2/blob/main/readme.de) [![cz](https://img.shields.io/badge/lang-fr-blue)](https://github.com/vvvamik/simple-booking-2/blob/main/readme.fr)
+
+
 == Simple booking 2.0 ==
 ### Simple Booking
 
